@@ -1,0 +1,27 @@
+body {
+    font-family: "nunito", sans-serif;
+}
+
+.main-header {
+    font-size: 70px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.text-content {
+    letter-spacing: 0.25;
+    font-size: 20px;
+}
+
+.hello {
+    object-fit: cover;
+    width: 85%;
+    border-radius: 1rem;
+}
+
+.profile{
+    object-fit: cover;
+    width: 80%;
+    border-radius: 1rem;
+}
+
